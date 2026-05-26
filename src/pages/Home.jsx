@@ -154,8 +154,8 @@ function Home() {
               </h3>
 
               <p className="about">
-                Feel free to reach out through GitHub or email for
-                collaborations, projects, or opportunities.
+                Feel free to reach out through GitHub or my email: 
+                mdjeddou2005@gmail.com
               </p>
 
             </section>
