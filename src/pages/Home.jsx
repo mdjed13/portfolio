@@ -45,7 +45,7 @@ function Home() {
                className="contact-btn"
                href="mailto:mdjeddou2005@gmail.com?subject=Portfolio Contact"
             >
-            Contact Me
+            E-mail
             </a>
 
             </div>
