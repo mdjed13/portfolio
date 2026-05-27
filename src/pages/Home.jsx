@@ -41,9 +41,12 @@ function Home() {
                 GitHub
               </a>
 
-              <a href="mailto:mdjeddou2005@gmail.com">
-                Email
-              </a>
+              <a
+               className="contact-btn"
+               href="mailto:mdjeddou2005@gmail.com?subject=Portfolio Contact"
+            >
+            Contact Me
+            </a>
 
             </div>
 
