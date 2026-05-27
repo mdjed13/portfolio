@@ -41,7 +41,7 @@ function Home() {
                 GitHub
               </a>
 
-              <a href="mailto:yourmail@gmail.com">
+              <a href="mailto:mdjeddou2005@gmail.com">
                 Email
               </a>
 
